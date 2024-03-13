@@ -1,5 +1,7 @@
 Movie Recommendation system
+
 Recommendation system
+
 A recommendation system is a type of information filtering system that predicts and suggests items or actions that a user might be interested in, based on their preferences or past behavior. These systems are widely used in various online platforms to help users discover relevant content, products, or services, thereby improving user experience and engagement.
 
 There are several types of recommendation systems, including:
